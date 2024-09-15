@@ -24,7 +24,7 @@ Apart from direct cell killing, AMPs also help to modulate immune response by pr
 
 ## Methodology:
 
-1. Pfeature library was obtained from \_ that we used to calculate our input features.
+1. Pfeature library was used to calculate our input features.
 2. Our data set was obtained from the [paper](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531\(20\)30132-3). Peptide dataset contained 1529 positive AMPs, which means that they have a proven antimicrobial activity, and 1529 negative AMPs which do not have any antimicrobial activity. A snippet of our FASTA file is shown below:
 
 ![image](https://github.com/user-attachments/assets/5fa13150-49cf-47cf-826b-56c795d827df)
